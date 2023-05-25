@@ -76,7 +76,7 @@ and that
  [Tableau dashboard ](https://github.com/)
  
 4. **Python files** Exploratory data analysis and predictions using several models:<br/>
-[Python code]([https://github.com/ocaoimh/hrc-mid-bootcamp-project/tree/main/python](https://github.com/rachelleflores/Classification-CreditCardProject/tree/main/python))
+[Python code](https://github.com/rachelleflores/Classification-CreditCardProject/tree/main/python)
 
 <br/>
 <br/>
