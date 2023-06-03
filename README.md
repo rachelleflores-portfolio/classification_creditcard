@@ -70,13 +70,13 @@ and that
 [Link to Google Slides version](https://docs.google.com/presentation/d/1xXbAIinpuS4oidB5m7gwRknb2jKs5x3f483AoF_Gr7Q/edit?usp=sharing)
 
 2. **SQL queries** Data extraction and some data exploration:<br/>
-[Link to SQL queries](https://github.com/ocaoimh/hrc-mid-bootcamp-project/tree/main/sql)
+[Link to SQL queries](https://github.com/rachelleflores/Classification-CreditCardProject/blob/main/sql/database_queries.sql)
 
 3. **Tableau dashboard** Data visualisations:<br/>
  [Tableau dashboard ](https://github.com/)
  
 4. **Python files** Exploratory data analysis and predictions using several models:<br/>
-[Python code](https://github.com/ocaoimh/hrc-mid-bootcamp-project/tree/main/python)
+[Python code](https://github.com/rachelleflores/Classification-CreditCardProject/tree/main/python)
 
 <br/>
 <br/>
